@@ -1,0 +1,7 @@
+{
+  "name": "Tech-Wheels Mobile Software Lab",
+  "description": "A professional landing page and booking platform for Rupendra Tandekar's innovative 'Software Services on Wheels' business, combining a mobile tech lab with high-end software engineering services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
